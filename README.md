@@ -12,6 +12,12 @@ GROUP BY product_category
 ORDER BY Total_Sales DESC
 LIMIT 1;
 ```
+* **Result:**
+```text
+    product_category | Total_Sales
+    -----------------+-------------
+    Technology       | 5984248.18
+```
 
 3. What are the Top 3 and Bottom 3 regions in terms of sales?
 4. What were the total sales of appliances in Ontario?
