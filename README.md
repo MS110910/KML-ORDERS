@@ -4,14 +4,14 @@ You have been engaged as a Business Intelligence Analyst to support the Abuja di
 ### Case Scenario I
 ### 1. Which product category had the highest sales?
 * **SQL Query:**
-    ```sql
+```sql
 SELECT product_category,
 SUM(sales) AS Total_Sales
 FROM orderstore
 GROUP BY product_category
 ORDER BY Total_Sales DESC
 LIMIT 1;
-    ```
+```
 
 3. What are the Top 3 and Bottom 3 regions in terms of sales?
 4. What were the total sales of appliances in Ontario?
