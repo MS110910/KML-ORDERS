@@ -19,6 +19,7 @@ Product_Category | Total_Sales
 Technology       | 5984248.18
 ```
 * **Insight:**
+  
 This shows that **"Technology"** is the leading product category in terms of sales, generating a significant total revenue of **₦5,984,248.18** (assuming Nigerian Naira currency). This indicates a strong market demand for technology products within Kultra Mega Stores' operations during the 2009-2012 period. Management should consider leveraging this strength, perhaps through targeted promotions or expanding product lines within this category.
 
 ### 2. What are the Top 3 and Bottom 3 regions in terms of sales?
@@ -59,7 +60,7 @@ Northwest Territories  | 800847.3295
 Yukon                  | 975867.3710
 ```
 
-* **Insight**
+* **Insight:**
 These regions highlights significant disparities in revenue generation across different geographical areas. The **"West," "Ontario," and "Prarie"** regions are clearly the top performers, contributing the most to overall sales. This suggests strong market presence and customer base in these areas.
 Conversely, **"Nunavut," "Northwest Territories," and "Yukon"** are the least regions in terms of sales. Their lower sales figures indicate either a weaker market penetration, lower population density, or specific logistical/economic challenges. 
   
@@ -78,7 +79,7 @@ Total_appliances_sold_in_Ontario
                        202346.84
 ```
 
-* **Insight**
+* **Insight:**
 The total sales of **Appliances** specifically within the **Ontario** province amount to **₦202,346.84**. This provides a granular view of category performance in a particular region. While "Technology" is the overall highest-selling category, this figure allows KMS management to assess regional demand for specific product types and potentially tailor marketing or inventory strategies for Appliances in Ontario.
 
 ### 4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers.
@@ -110,16 +111,16 @@ Mark Hamilton     | 450.99
 * **Advice to Management:**
 To increase revenue from customers like Jeremy Farry, Natalie DeCherney, and others on this list, KMS should consider a targeted approach focusing on engagement and value proposition:
 a.  **Personalized  Campaigns:**
-    Send personalized emails or SMS messages, offer small, exclusive discounts (e.g., 5-10% off their next purchase), a special bundle tailored to their past (minimal)          purchases with a limited-time validity.
+    Send personalized emails or SMS messages, offer small, exclusive discounts (e.g., 5-10% off their next purchase), a special bundle tailored to their past (minimal) purchases with a limited-time validity.
 
 b.  **Targeted Product Recommendations:**
-    Analyze the types of products these customers buy (including small purchases). Recommend complementary products, new arrivals in categories they previously showed           interest in, or essential supplies that are frequently repurchased.
+    Analyze the types of products these customers buy (including small purchases). Recommend complementary products, new arrivals in categories they previously showed interest in, or essential supplies that are frequently repurchased.
 
 c.  **Feedback (Surveys):**
-    Reach out to a sample of these customers with a short, incentivized survey (e.g., "Complete this 2-minute survey and get a small discount on your next order").              Understand *why* their spending is low. Is it pricing? Product availability? Customer service experience? Lack of awareness of the full product range? 
+    Reach out to a sample of these customers with a short, incentivized survey (e.g., "Complete this 2-minute survey and get a small discount on your next order").Understand *why* their spending is low. Is it pricing? Product availability? Customer service experience? Lack of awareness of the full product range? 
     
 d.  **Introduce Loyalty Programs:**
-    Clearly communicate the benefits of  being a regular customer (e.g., free shipping thresholds, exclusive early access to sales). Provide an incentive for repeat             purchases and increased spending.
+    Clearly communicate the benefits of  being a regular customer (e.g., free shipping thresholds, exclusive early access to sales). Provide an incentive for repeat purchases and increased spending.
 
 ### 5.KMS incurred the most shipping cost using which shipping method?
 * **SQL Query:**
@@ -195,7 +196,7 @@ Sylvia Foulston     | Technology        | 29669.0375                    | 5
 Sylvia Foulston     | Office Supplies   | 11033.34                      | 9
 ```
 
-* **Insight**
+* **Insight:**
 The most valuable customers for Kultra Mega Stores are **Emily Phan**, **Deborah Brumfield**, **Roy Skaria**, **Sylvia Foulston**, and **Grant Carroll**, based on their significant total sales contributions.
 Their purchasing patterns show distinct preferences:
 * **Technology Dominance:** Emily Phan and Deborah Brumfield heavily purchase **Technology** products, accounting for a large portion of their overall spending.
@@ -225,7 +226,7 @@ Customer_Name | Customer_Total_Sales
 Dennis Kane   | 75967.5905
 ```
 
-* **Insight**
+* **Insight:**
 **Dennis Kane** is identified as the small business customer with the highest sales, contributing **₦75,967.59** to KMS revenue. This customer is a key asset within the small business segment. Management could consider reaching out to Dennis Kane directly to understand their needs better, offer personalized bulk discounts, or explore opportunities for upselling/cross-selling to further solidify this valuable relationship and potentially use them as a case study for attracting similar high-value small business clients.
 
 ### 8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
@@ -247,7 +248,7 @@ Customer_Name | Total_Orders_Placed
 Adam Hart     | 27
 ```
 
-* **Insight**
+* **Insight:**
 **Adam Hart** is identified as the Corporate Customer who placed the highest number of orders (27) between 2009 and 2012. This indicates Adam Hart is a highly engaged and consistent corporate client for KMS. Management should recognize this customer as a key relationship and explore opportunities for deepened engagement, perhaps through dedicated account management, exclusive previews of new corporate solutions, or loyalty incentives to maintain their high order frequency.
 
 ### 9. Which consumer customer was the most profitable one?
@@ -269,7 +270,7 @@ Customer_Name | Customer_Total_Profit
 Emily Phan    | 34005.44
 ```
 
-* **Insight**
+* **Insight:**
 **Emily Phan** emerges as the most profitable consumer customer for KMS, generating a total profit of **₦34,005.44**. It's note worthy that Emily Phan also appeared as one of the overall most valuable customers by sales, reinforcing her importance to the business. This indicates a customer who not only purchases frequently but also tends to buy items with higher profit margins. KMS should prioritize retaining and nurturing this relationship, potentially through exclusive offers on high-margin products or personalized communication, to maximize long-term profitability.
 
 ### 10. Which customer returned items, and what segment do they belong to?
@@ -298,7 +299,7 @@ Julie Prescott  | Home Office
 Liz Willingham  | Home Office
 ```
 
-* **Insight**
+* **Insight:**
 A substantial number of customers, totaling **419 individuals/entities**, have returned items to KMS. These returns are not isolated to a single customer segment but are observed across **Home Office, Corporate, Small Business, and Consumer** segments. This indicates a widespread issue or characteristic behavior rather than a segment-specific problem.
 
 **Recommendations for Management:**
@@ -343,17 +344,19 @@ Not Specified  | Express Air    | 1470.06                          | 180
 It appears that **KMS is NOT optimally or appropriately spending shipping costs based on Order Priority**, particularly for high-priority orders.
 
 **Key Observations:**
+
 a.  **Mismatch for High and Critical Priorities:**
 * For both "Critical" and "High" priority orders, the **Delivery Truck** (described as the slowest and most economical method) consistently incurs the *highest total shipping cost*. This is counter-intuitive for urgent orders, where speed should theoretically outweigh cost-per-shipment considerations.
 * The fastest and most expensive method, **Express Air**, consistently has the *lowest total shipping cost* and the *lowest number of orders* across *all* priority levels, including "Critical" and "High". This strongly suggests it is being underutilized for urgent shipments, where its speed would be most beneficial, despite its higher individual cost.
-b.  **Reliance on Regular Air:** "Regular Air" appears to be the workhorse for all priority levels, handling the vast majority of orders. While this might be a balanced approach for medium to low priorities, its heavy use for "Critical" and "High" orders (despite `Delivery Truck` having higher *total* cost) still implies that the fastest option (Express Air) is not being chosen when urgency is paramount.
+b.  **Reliance on Regular Air:** "Regular Air" appears to be the workhorse for all priority levels, handling the vast majority of orders. While this might be a balanced approach for medium to low priorities, its heavy use for "Critical" and "High" orders (despite "Delivery Truck" having higher *total* cost) still implies that the fastest option (Express Air) is not being chosen when urgency is paramount.
 c.  **Appropriate for Low/Medium/Not Specified:** For "Low," "Medium," and "Not Specified" priorities, the higher usage and total cost for "Delivery Truck" and "Regular Air" are more justifiable, as these orders are less time-sensitive, and cost efficiency would be a higher priority.
 
 **Conclusion and Recommendations:**
 The current spending pattern indicates a potential disconnect between stated order priority and the chosen shipping method. KMS might be sacrificing delivery speed for urgent orders to save on per-shipment costs, which could negatively impact customer satisfaction for critical deliveries.
+
 Management should:
 * **Review Shipping Policies:** Establish clearer guidelines for selecting shipping methods based on Order Priority, ensuring that "Critical" and "High" priority orders are consistently routed via faster (even if individually more expensive) options like "Express Air."
-* * **Cost-Benefit Analysis for Urgency:** Conduct a detailed cost-benefit analysis comparing the increased shipping cost of "Express Air" for critical orders against the potential loss of customer satisfaction, repeat business, or contractual penalties due to slow delivery.
+* **Cost-Benefit Analysis for Urgency:** Conduct a detailed cost-benefit analysis comparing the increased shipping cost of "Express Air" for critical orders against the potential loss of customer satisfaction, repeat business, or contractual penalties due to slow delivery.
 * **Optimize Delivery Truck Use:** While economical, if "Delivery Truck" has the highest *total* cost for urgent orders, it may indicate inefficiencies in routing, capacity utilization, or a need to shift some of these urgent orders to faster, albeit pricier, modes.
 
 ### Key Findings & Recommendations
@@ -363,8 +366,8 @@ This sales and order analysis for Kultra Mega Stores (KMS) from 2009 to 2012 pro
 * **Technology**, the highest-selling product is a dominant product in category, indicating strong market demand and a core revenue driver for KMS. Sales are highly concentrated, with **"West," "Ontario," and "Prarie"** being the top-performing regions, while **"Nunavut," "Northwest Territories," and "Yukon"** significantly lag behind, highlighting uneven market penetration.
 * **Emily Phan** stands out as both the **most valuable overall customer by sales** and the **most profitable consumer customer**, making her a crucial asset. Her primary purchases are in **Technology**.
 * **Deborah Brumfield** (Technology), **Grant Carroll** (Office Supplies and Furniture), **Dennis Kane** (Small Business) and  **Adam Hart** (Corporate) are also valuable customers demonstrating consistent engagement.
-A defined group of **bottom 10 customers** contributes minimally to revenue, suggesting potential for targeted re-engagement and customer retention.
-A considerable number of customers (**419 unique customers**) across all segments (Consumer, Corporate, Small Business, Home Office) have returned items, indicating a potentially widespread issue in product satisfaction or fulfillment.
+* A defined group of **bottom 10 customers** contributes minimally to revenue, suggesting potential for targeted re-engagement and customer retention.
+* A considerable number of customers (**419 unique customers**) across all segments (Consumer, Corporate, Small Business, Home Office) have returned items, indicating a potentially widespread issue in product satisfaction or fulfillment.
 Despite "Delivery Truck" being the slowest and most economical, it incurs the highest *total* shipping costs for **"Critical" and "High" priority orders**. Conversely, "Express Air" (fastest, most expensive) is significantly underutilized for these urgent shipments. This suggests a disconnect between order priority and shipping method selection.
 
 ###  Recommendations
